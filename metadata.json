@@ -1,0 +1,6 @@
+{
+  "name": "Joe Beef — Montréal",
+  "description": "Relaxed restaurant & bar serving steaks & seafood in a compact, old-school setting in Little Burgundy, Montréal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
